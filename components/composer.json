@@ -1,0 +1,13 @@
+{
+    "name": "yii2-sys-redefinition/components",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andru",
+            "email": "wir_wolf@bk.ru"
+        }
+    ],
+  	"autoload": {
+	  "psr-4": {"Redefinitions\\Components\\": ""}
+	}
+}
